@@ -21,3 +21,42 @@ h1{
     width: 50px;
     height: 50px;
 }
+
+.table{
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+
+table{
+    border: 1px solid black;
+}
+
+.month{
+    color: #98c379;
+    text-align: center;
+    margin-bottom: 0;
+    background-color: #282c34;
+    
+}
+
+.tb{
+    background-color: #282c34;
+}
+
+th{
+padding:8px;
+}
+
+.day{
+    color: #61afef;
+}
+
+.holidays{   
+    color:#e04c34;
+}
+
+.sunday{
+    color: black;
+    font-weight: bold;
+}
