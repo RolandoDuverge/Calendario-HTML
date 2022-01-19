@@ -50,6 +50,14 @@ th{
 padding:8px;
 }
 
+.anm th:hover {
+    background-color: #1d2127;
+}
+
+.anms:hover {
+    background-color: #1d2127;
+}
+
 .day{
     color: #61afef;
 }
